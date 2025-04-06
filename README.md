@@ -7,7 +7,6 @@ An advanced web application built with Streamlit that implements Black-Scholes p
 - **Option Price Calculation**
   - Real-time calculation of call and put option prices
   - Interactive heatmaps showing price sensitivity to stock price and volatility
-  - Support for dividend-paying stocks
   - Customizable parameters (stock price, strike price, time to expiration, etc.)
 
 - **Greeks Analysis**
@@ -26,7 +25,7 @@ An advanced web application built with Streamlit that implements Black-Scholes p
   - Comparison capability between calls and puts
 
 - **Risk Analysis**
-  - Implied volatility calculator using Newton-Rhapson Method
+  - Implied volatility calculator using the Newton-Rhapson Method
   - Market price comparison tools
   - Real-time risk metrics display
 
